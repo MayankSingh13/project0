@@ -29,7 +29,8 @@ p::selection{
 #main {
   #background-image: url('639118.jpg');
   #font-family: OCR A Extended;
-  font-family: Courier New, Courier, monospace;
+  #font-family: "Courier New", Courier, monospace;
+  font-family: "Lucida Console", Monaco, monospace;
   background-repeat: no-repeat;
   background-color:#0b1306;
   color:white;
