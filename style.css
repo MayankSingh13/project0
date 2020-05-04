@@ -13,6 +13,7 @@ button a:hover {
 	font-size:130%;
 	text-decoration:none;
 	text-transform:uppercase;
+	color:white;
 }
 th a{
     display:block;
@@ -59,4 +60,8 @@ section {
 }
 .h6 {
 	font-size:15px;
+}
+button > a {
+	text-decoration:none;
+	color:white;
 }
