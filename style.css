@@ -53,7 +53,8 @@ button {
 
 section {
 	#margin-top:65px;
-	margin-bottom:5px;
+	margin-top:-150px;
+	#margin-bottom:5px;
     padding: 5px 0;
 	position:absolute;
 }
