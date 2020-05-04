@@ -53,10 +53,11 @@ button {
 
 section {
 	#margin-top:65px;
-	margin-top:-950px;
+	#margin-top:-950px;
 	#margin-bottom:5px;
     padding: 5px 0;
 	position:absolute;
+	bottom:0;
 }
 .h6 {
 	font-size:15px;
