@@ -56,3 +56,6 @@ section {
 .h6 {
 	font-size:15px;
 }
+#footer {
+	position:relative;
+}
