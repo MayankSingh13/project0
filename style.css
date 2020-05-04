@@ -65,3 +65,8 @@ button > a {
 	text-decoration:none;
 	color:white;
 }
+body {
+	background-color:black;
+    font-family: "Lucida Console", Monaco, monospace;
+	color:white;
+}
