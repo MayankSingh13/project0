@@ -28,7 +28,8 @@ p::selection{
 }
 #main {
   #background-image: url('639118.jpg');
-  font-family: OCR A Extended;
+  #font-family: OCR A Extended;
+  font-family: Courier New, Courier, monospace;
   background-repeat: no-repeat;
   background-color:#0b1306;
   color:white;
