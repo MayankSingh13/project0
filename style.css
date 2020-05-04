@@ -1,0 +1,58 @@
+header {
+	color:white;
+	text-align:center;
+	padding-top:70px;
+	font-weight:bold;
+	font-size:44px;
+}
+table {
+	width:100%;
+	text-align:center;
+}
+button a:hover {
+	font-size:130%;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+th a{
+    display:block;
+	text-decoration:none;
+	color:blue;
+}
+tr > th {
+	padding:18px;
+}
+p::selection{
+	background-color:yellow;
+	color:red;
+}
+#main {
+  #background-image: url('639118.jpg');
+  font-family: OCR A Extended;
+  background-repeat: no-repeat;
+  background-color:#0b1306;
+  color:white;
+  #background-size:cover;
+}
+p, nav {
+	animation: createBox 1s;
+}
+@keyframes createBox {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+button {
+	margin:50px;
+}
+
+section {
+	margin-top:65px;
+    padding: 5px 0;
+}
+.h6 {
+	font-size:15px;
+}
