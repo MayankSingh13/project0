@@ -56,8 +56,9 @@ section {
 	#margin-top:-950px;
 	#margin-bottom:5px;
     padding: 5px 0;
-	position:relative;
+	#position:relative;
 	bottom:0;
+	text-align:center;
 }
 .h6 {
 	font-size:15px;
