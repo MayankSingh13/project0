@@ -50,12 +50,10 @@ button {
 }
 
 section {
-	margin-top:65px;
+	#margin-top:65px;
+	margin-bottom:5px;
     padding: 5px 0;
 }
 .h6 {
 	font-size:15px;
-}
-#footer {
-	position:relative;
 }
