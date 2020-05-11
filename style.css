@@ -54,11 +54,18 @@ button {
 	margin:50px;
 }
 
-section {
+#footer {
 	margin-top:65px;
 	#margin-top:-950px;
 	#margin-bottom:5px;
     padding: 5px 0;
+}
+#indexfooter {
+	padding: 5px 0;
+	bottom: 0;
+	position: fixed;
+	width: 90%;
+	text-align:center;
 }
 .h6 {
 	font-size:15px;
