@@ -5,9 +5,10 @@ header {
 	font-weight:bold;
 	#font-size:44px;
 }
-table {
+table, td {
 	width:100%;
 	text-align:center;
+	table-layout: fixed;
 }
 button a:hover {
 	font-size:130%;
@@ -133,4 +134,15 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.topper {
+	top: 0;
+	text-decoration:none;
+	float:right;
+}
+.topper:hover {
+	top: 0;
+	text-decoration:none;
+	float:right;
 }
